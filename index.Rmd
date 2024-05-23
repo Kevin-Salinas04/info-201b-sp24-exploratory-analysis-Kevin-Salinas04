@@ -1,0 +1,114 @@
+---
+title: "Exploratory Analysis"
+output: html_document
+---
+
+## Project title
+
+Insomnia: Cause and Effect
+Give your project a concise, interesting title that summarizes the entirety of your project. (Your title can change on subsequent deliverables.)
+
+### Authors
+
+Kevin Salinas (ksalin@uw.edu)
+
+### Date
+
+Spring 2024
+
+## Abstract
+
+Our main questions is how can we sleep better. To adress this concern, we plan to give information on why people might have insomnia and how they can sleep better. This is important because people need sleep so they can function during the day and sleep helps people function better.
+
+## Keywords
+
+Insomnia, Sleep, Human, Pills, Help
+
+###Introduction  
+
+> Briefly introduce your project.  Include 3-5 research questions. What motivates the questions? Why are they important? (at least 200 words)
+
+>My project will talk about sleep problems at night like insomnia. Also what might cause insomnia because it might be a different reason for everyone who has insomnia. it will have some tables about peoples sleep like if older people sleep better or younger peole sleep better or other types of data. I will also have things that poeple can do to help them fall asleep faster and stay asleep longer. I will aslo talk about in my work what the effects are of people not being able to sleep good. >What is the reason I can not sleep, might be a question people are asking themselves while they are in bed trying to sleep >but are just not able to go to sleep. The thing that motivates the questions is because I find myself asking the same questions to myself because I am also not able to sleep early even though I am in bed with >the lights off. This is important because everyone needs sleep to be able to function one hundred percent throughout the day. Is it my thoughts that are keeping me up, might be another question people ask >themselves because they may be in bed but their mind might be thinking of a bunch of other things that might be keeping the person from falling asleep. Another question might be, do I need to take something to >make me fall asleep easier? Some people really can not fall asleep at all so they think about taking something like melatonin to fall asleep. But some people can fall asleep but have trouble staying asleep. What >is waking me up in the middle of the night, I am not sure but I will research to find reasons people can not stay asleep.
+
+
+###Related Work  
+
+> Describe your topic and related work in this space. You must include 3 citations to related work (URLs to similar work, high quality articles from the popular press, research papers, etc. ) Please use a standard citation style of your choice. (at least 200 words)
+> My topic is about sleep insomnia. Some people can not sleep for many different reasons such as stress or poor sleep habits. Those are not the only reasons but those are two that is probably the most common. I found that information on the website "https://www.mayoclinic.org/diseases-conditions/insomnia/symptoms-causes/syc-20355167". I also found on the paper "Insomnia" by Mayo Clinic staff it says "Concerns about work, school, health, money or family can keep your mind active at night, making it hard to sleep. Stressful life events, such as the death or illness of a loved one, divorce, or a job loss, also may lead to insomnia." It is true because if you are stressing that is all you will be focused on while trying to sleep, most people usually clear their heads before falling asleep so they can fall asleep faster because thinking of things will prevent most people from falling asleep. I also found on the paper "Insomnia" by Mayo Clinic staff it says "Poor sleep habits include going to bed and waking up at different times each day, taking naps, being too active before bedtime and having a sleep area that is not comfortable. Other poor sleep habits include working, eating or watching TV while in bed. Using computers or smartphones, playing video games, or watching TV just before bed can disrupt your sleep cycle." Do activites right before bed might not make you tired and you will not be able to fall asleep once you do get in bed, or if you stay up too late too often your body may get used to falling asleep very late.
+
+###The Dataset
+
+> Where did you find the data? Please include a link to the data source
+> https://www.cdc.gov/sleep/data-and-statistics/adults.html
+> Who collected the data?
+> National Center for Chronic Disease Prevention and Health Promotion and Division of Population Health
+> How was the data collected or generated?
+> They got thier data from CDC Behavioral Risk Factor Surveillance System (BRFSS) in 2020.
+> Why was the data collected?
+>  To inform adults from the US the sleep durations all over america.
+>How many observations (rows) are in your data?
+> 51 rows
+> How many features (columns) are in the data?
+> 3 columns 
+> What, if any, ethical questions or questions of power do you need to consider when working with this data?
+> If the website is not lying about these number on the data table.  
+> What are possible limitations or problems with this data?   (at least 200 words)
+> The biggest problem there could be is that the numbers on the data table are lies. 
+
+###Implications
+
+> Assuming you answer your research questions, briefly describe the expected or possible implications for technologists, designers, and policymakers. (at least 150 words)
+> if I had the answer to my research questions there would be many possible implications for technologists, designers, and policymakers. For technologists they would be able to find better medicine to fall asleep or stay asleep longer. technologists would also find the best way to take the medicine so it would be the most effective it can be. If they were able to make that medicine it would be great because then it would help people with insomnia fall asleep faster or they would stay asleep longer. For policy makers they could make new rules for the medicine about who can take the medicine so people can stay safe using the particular medicine. The designers would be able to find the best way the medicine will look and in what bottle the medicine would look best in. Those are just some possible implications I could think of there might be more if you think hard enough.
+
+###Limitations & Challenges
+>What challenges or limitations might you need to address with your project idea more broadly? Briefly discuss. (at least 150 words)
+>One of the biggest limitations is that the numbers from the data table I am using for my data are not correct numbers. If they are not correct data then all the data work I do with this certain table would be completely wrong. Also coding might be one of the biggest challenges for me because I am not the most familiar with working in Rstudio. I might not know the code to be able to find certain data on the table because I am not the most familiar with Rstudio. I also need to find some information about some interesting things that involve everyone because then everyone would have something to gain out of my final project even if they do not have sleep insomnia. Those are just some challenges or limitations that I can run into while doing my project idea but I do not think I will run into these problems a lot.  
+
+### Summary Information
+
+Write a summary paragraph of findings that includes the 5 values calculated from your summary information R script
+
+The five values that are found on my table is gender, age, occupation, sleep duration, quality of sleep, Physical Activity Level, stress level, blood pressure, heart rate, daily steps, and sleep disorder. most doctors were not getting 8 hours of sleep. The people with a high activity level sleep longer than people with lower activity level. people who are older have better sleep quality. 
+
+### Table
+
+Include a table of aggregate information
+
+Describe why you included the table and what information it reveals
+it has a bunch of the data that I want my project to include. it includes a bunch of stuff about people sleep. people with different lives and how much sleep they get how how good their sleep is. They include the age their job, their activity level. 
+
+### Chart 1
+
+Include a chart
+
+Describe why you chose this chart and what information it reveals
+It had good amount of data and it had very important data that goes with my research. It includes gender, age, occupation, sleep duration, quality of sleep, Physical Activity Level, stress level, blood pressure, heart rate, daily steps, and sleep disorder.
+
+``````{r, echo = FALSE, code = readLines("dataset1.R")}
+
+data1 <- code = readLines("dataset1.R")
+``````
+
+### Chart 2
+
+Include a chart
+
+Describe why you chose this chart and what information it reveals
+It had more specific questions to people about why they could not sleep. Such as how long does it take you to sleep and how long do you stay asleep. 
+
+``````{r, echo = FALSE, code = readLines("dataset1.R")}
+
+data2 <- code = readLines("data2.R")
+``````
+
+### Chart 3
+
+Include a chart
+
+Describe why you chose this chart and what information it reveals
+it has percentages rather than numbers in the table. The information is if they sleep less than six hours or more than 7 hours.
+
+``````{r, echo = FALSE, code = readLines("data2.R")}
+data3 <- code = readLines("data3.R")
+
+``````
